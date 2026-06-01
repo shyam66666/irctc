@@ -10,7 +10,7 @@ function Navbar() {
       </div>
       <div className="grid-cols-8 ">
           <p className="font-medium flex justify-center items-center">
-            29-May-2026 [12:12:34] | A - | A | A + | हिंदी
+            29-May-2026 [12:12:34]  | A -  | A  | A +  |  हिंदी
           </p>
           <div className="flex  justify-center items-center gap-4 mt-3 cursor-pointer">
           <img  src={HOME_LOGO}  className="w-4 h-auto"/>
